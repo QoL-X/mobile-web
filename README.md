@@ -1,2 +1,2 @@
 # mobile-web
-Code for the website
+Code for QoL-X.com
