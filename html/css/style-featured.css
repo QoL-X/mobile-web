@@ -1,0 +1,19 @@
+.style-featured{
+/*     padding: 5px 0px 5px 0px; */
+/*     text-align: center; */
+}
+.style-featured > div{
+/*     background: rgba(153, 200, 250, 0.09); */
+/*     padding: 20px -60px 20px -60px; */
+/*     margin: 20px -20px 20px -20px; */
+    border: 1px solid transparent;
+    border-radius: 4px;
+    transition: .5s;
+}
+.style-featured > div:hover{
+/*     margin-top: +19px; */
+    border: 1px solid rgb(153, 200, 250);
+/*     box-shadow: rgba(0, 0, 0, 0.1) 0px 9px 9px 9px; */
+    background: rgba(153, 200, 250, 0.3);
+/*     transition: 0.99s; */
+}
